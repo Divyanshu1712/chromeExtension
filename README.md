@@ -15,7 +15,7 @@ Follow these steps to **install and test** any Chrome extension from this reposi
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/chrome-extensions.git
+   git clone https://github.com/Divyanshu1712/chromeExtension.git
    cd chrome-extensions
    ```
 2. Open Google Chrome and go to `chrome://extensions/`.
@@ -64,5 +64,4 @@ The goal of this repository is to **simplify browser automation and enhance prod
 Feel free to contribute, suggest features, or report issues!
 
 📬 Contact: [Divyanshusrivastava619@gmail.com]  
-🌐 GitHub: [https://github.com/yourusername/chrome-extensions](https://github.com/yourusername/chrome-extensions)
-
+🌐 GitHub: https://github.com/Divyanshu1712
